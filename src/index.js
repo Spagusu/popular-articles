@@ -36,7 +36,7 @@ export default function App() {
         <div className="row">
           <div className="col-md-8 col-lg-8 col-sm-12 col-xs-12"><h3>NY Times Most Popular</h3></div>
           <div className="col-md-4 col-lg-4 col-sm-6 col-xs-6">
-            <input className="search  col-md-4 col-lg-4 col-sm-6 col-xs-6" type="text" />
+            <input className="search  col-md-4 col-lg-4 col-sm-6 col-xs-6" type="text" placeholder="Search..."/>
             {/* <i className="fa fa-search pull-right"></i> */}
           </div>
         </div>
